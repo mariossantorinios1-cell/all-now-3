@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Header from '../components/Header'
 import AdsPlaceholder from '../components/AdsPlaceholder'
 
-export default function Home(){
+export default function Home() {
   return (
     <main className="min-h-screen">
       <Header />
